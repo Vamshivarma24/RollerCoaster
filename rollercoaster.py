@@ -9,7 +9,7 @@ import seaborn as sea
 plt.style.use('ggplot')
 
 # Importing the data
-df=pd.read_csv(r'C:\Users\vamsh\Downloads\archive\coaster_db.csv')
+df=pd.read_csv('coaster_db.csv')
 
 # Details about the data
 
