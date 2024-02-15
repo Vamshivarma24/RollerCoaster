@@ -9,7 +9,7 @@ seaborn
 
 # Installation
 1) Clone this repository to your local machine:
-  git clone <repository_url>
+  git clone (https://github.com/Vamshivarma24/RollerCoaster)
 2) Install the required dependencies using pip:
   pip install -r requirements.txt
 
