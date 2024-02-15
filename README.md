@@ -2,10 +2,10 @@
 This repository contains code for analyzing roller coaster data using Python's pandas, matplotlib, and seaborn libraries. The analysis involves cleaning the data, exploring various features, and visualizing relationships between different variables.
 
 # Requirements
-Python 3.x
-pandas
-matplotlib
-seaborn
+  Python 3.x
+  pandas
+  matplotlib
+  seaborn
 
 # Installation
 1) Clone this repository to your local machine:
@@ -40,8 +40,8 @@ Pairplot Visualization:
   1) Creating pairplots to explore relationships between multiple variables.
 
 Correlation Analysis:
-  1)Calculating correlation between years introduced, speed, height, inversions, and G-force.
-  2)Visualizing correlation using a heatmap.
+  1) Calculating correlation between years introduced, speed, height, inversions, and G-force.
+  2) Visualizing correlation using a heatmap.
 
 # Contributors
 Vamshivarma24
